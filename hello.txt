@@ -1,3 +1,4 @@
 "file content"
 :q
 add: 변경사항 만들어보기
+pull: 원격 저장소의 내용을 가져오기 
